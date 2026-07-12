@@ -1,0 +1,10 @@
+{
+  "id": "hf-bucket-sync",
+  "name": "HF Bucket Sync",
+  "version": "1.0.1",
+  "minAppVersion": "1.4.0",
+  "description": "Sync your vault to a Hugging Face bucket (private dataset repo) so you can access the same notes from multiple devices, including mobile.",
+  "author": "Sanyam",
+  "authorUrl": "",
+  "isDesktopOnly": false
+}
